@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Entrega Hugo RAH DAWV2</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Entrega Hugo RAH DAWV2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Oct 2022 16:06:57 +0100</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre Hugo</title>
+      <link>http://example.org/sobre_hugo/</link>
+      <pubDate>Fri, 14 Oct 2022 16:33:38 +0100</pubDate>
+      <guid>http://example.org/sobre_hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Proceso de comunicacion</title>
+      <link>http://example.org/proceso_de_comunicacion/</link>
+      <pubDate>Fri, 14 Oct 2022 16:33:58 +0100</pubDate>
+      <guid>http://example.org/proceso_de_comunicacion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resuelve el Puzle</title>
+      <link>http://example.org/resuelve_el_puzle/</link>
+      <pubDate>Fri, 14 Oct 2022 16:34:36 +0100</pubDate>
+      <guid>http://example.org/resuelve_el_puzle/</guid>
+      <description>Babel WebPack Prototype Polyfill: PHP Frameworks de php: DJango JSP Css Bootstrap: Vue React Angular JavaScript TypeScript JQuery: Gatsby Hugo Jekyll Pelican Scraping heroku: Vuespress:</description>
+    </item>
+  </channel>
+</rss>
