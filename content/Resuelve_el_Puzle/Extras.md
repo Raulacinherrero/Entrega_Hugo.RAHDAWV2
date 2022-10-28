@@ -15,3 +15,5 @@ graph LR;
 
 ![centarcanero](/images/arcaneicon.jpeg)
 {{<audio src="/audio/gunsforhire.mp3" caption="Guns for Hire" >}}
+
+{{% attachments title="Descarga la Canción" /%}}
