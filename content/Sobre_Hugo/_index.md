@@ -5,3 +5,11 @@ draft: false
 weight: 1
 ---
 
+## A continuación
+
+Vamos a seguir paso a paso como proceder con la instalación de Hugo
+
+
+Selecciona si vas a usar Windows o Linux
+
+![hugo](/images/hugoname.png)
