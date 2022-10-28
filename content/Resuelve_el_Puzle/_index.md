@@ -23,3 +23,9 @@ https://blog.heroku.com/jekyll-on-heroku
 ## Vuepress:
 Es un generador de sitios estáticos
 https://vuepress.vuejs.org/
+## VirtualBox:
+Es un programa para virtualizar máquinas y sistemas operativos dentro de tu propio sistema operativo
+https://www.virtualbox.org/
+## Eclipse:
+Es una plataforma de software con distintas herramientas de programación, está hecha para que desarrolladores de todo tipo puedan empezar a lanzar sus proyectos
+https://www.eclipse.org/ide/
