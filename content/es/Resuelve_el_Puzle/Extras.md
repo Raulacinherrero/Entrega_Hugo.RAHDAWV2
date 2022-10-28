@@ -13,7 +13,7 @@ graph LR;
 {{</mermaid>}}
 
 
-![centarcanero](/images/arcaneicon.jpeg)
+![arcane](/images/arcaneicon.jpeg)
 {{<audio src="/audio/gunsforhire.mp3" caption="Guns for Hire" >}}
 
 {{% attachments title="Descargas" /%}}

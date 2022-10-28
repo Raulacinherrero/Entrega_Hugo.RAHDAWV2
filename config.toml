@@ -3,3 +3,20 @@ languageCode = 'en-us'
 title = 'Entrega Hugo RAH DAWV2'
 
 theme =['relearn']
+
+[Languages]
+    [Languages.es]
+        title = "Tarea Hugo RAH DAWV2"
+        weight = 1
+        languageName = "Español"
+        contentDir = "content/es"
+    [Languages.en]
+        title = "Task Hugo RAH DAWV2"
+        weight = 2
+        languageName = "English"
+        contentDir = "content/en"
+   [Languages.fr]
+        title = "Tâche Hugo RAH DAWV2"
+        weight = 3
+        languageName = "Français"
+        contentDir = "content/fr"

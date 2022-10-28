@@ -1,0 +1,2 @@
+El shortcode de Youtube en la Instalación de Ubuntu en Windows aparece en la esquina de la pantalla en vez de debajo del texto, no he sabido como arreglarlo.
+Tampoco he podido traducir el apartado de Sobre Mi ya que lo sustisuí en la página de inicio a modo de innovar pero en su momento no caí en el problema que podía llevar para las traducciones
